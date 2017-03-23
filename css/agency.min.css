@@ -120,8 +120,8 @@
      background-color: #fed136;
      border-color: #fed136;
      border-radius: 3px;
-     font-size: 18px;
-     padding: 20px 40px
+     font-size: 14px;
+     padding: 11px 21px
  }
  
  .btn-xl.active,
@@ -164,8 +164,8 @@
  }
  
  .navbar-custom .navbar-brand {
-     color: #fed136;
-     font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
+     color: #fede36;
+     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif
  }
  
  .navbar-custom .navbar-brand.active,
@@ -261,24 +261,23 @@
  }
  
  header .intro-text {
-     padding-top: 100px;
-     padding-bottom: 50px
+     padding-top: 176px;
+     padding-bottom: 35px
  }
  
  header .intro-text .intro-lead-in {
-     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-     font-style: italic;
+     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
      font-size: 22px;
      line-height: 22px;
-     margin-bottom: 25px
+     margin-bottom: 25px;
+     text-transform: uppercase;
+     font-weight: bolder;
  }
  
  header .intro-text .intro-heading {
-     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-     text-transform: uppercase;
-     font-weight: 700;
-     font-size: 50px;
-     line-height: 50px;
+     font-family: 'Karla', helvetica, arial, sans-serif;
+     font-size: 15px;
+     line-height: normal;
      margin-bottom: 25px
  }
  
@@ -288,19 +287,18 @@
          padding-bottom: 200px
      }
      header .intro-text .intro-lead-in {
-         font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-         font-style: italic;
-         font-size: 40px;
+         font-size: 61px;
          line-height: 40px;
          margin-bottom: 25px
      }
      header .intro-text .intro-heading {
-         font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-         text-transform: uppercase;
-         font-weight: 700;
-         font-size: 75px;
+         font-size: 33px;
          line-height: 75px;
-         margin-bottom: 50px
+         margin-bottom: 69px
+     }
+     .btn-xl {
+        font-size: 18px;
+        padding: 20px 40px
      }
  }
  
